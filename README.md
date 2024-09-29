@@ -13,7 +13,7 @@
   
 🚀 Installation
 
-* Prérequis
+➡️ Prérequis
 
 - SDK Flutter
 - Android Studio ou Visual Studio Code (avec plugins Flutter et Dart)
@@ -22,7 +22,7 @@
 
 
 
-* Étapes d'installation
+➡️ Étapes d'installation
 
 1. Clonez le dépôt sur votre machine locale :
 
