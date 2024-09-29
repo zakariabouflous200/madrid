@@ -44,8 +44,7 @@ flutter run
 ```
 ## 📸 Captures d'écran
 
-| Accueil                            | Nouvelles                          | À propos                           | Joueurs                            |
-|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
-|      | ![Nouvelles](path-to-news.png)     | ![À propos](path-to-about.png)     |   |<img width="1430" alt="Capture d’écran 2024-07-04 à 21 24 32" src="https://github.com/user-attachments/assets/1193e2a0-f9f9-4cd9-9e53-aff204b0fcc5">
-
+| Accueil                            | Nouvelles                          | À propos                           | Joueurs                            | Articles                           |
+|------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
+| ![Accueil](https://github.com/zakariabouflous200/madrid/blob/main/home)       | ![Nouvelles](https://github.com/zakariabouflous200/madrid/blob/main/news)     | ![À propos](https://github.com/zakariabouflous200/madrid/blob/main/about)     | ![Joueurs](https://github.com/zakariabouflous200/madrid/blob/main/players)    | ![Articles](https://github.com/zakariabouflous200/madrid/blob/main/articles)  |
 
