@@ -13,7 +13,7 @@
   
 🚀 Installation
 
-Prérequis
+* Prérequis
 
 - SDK Flutter
 - Android Studio ou Visual Studio Code (avec plugins Flutter et Dart)
@@ -22,11 +22,11 @@ Prérequis
 
 
 
-Étapes d'installation
+* Étapes d'installation
 
 1. Clonez le dépôt sur votre machine locale :
 
-git clone https://github.com/votreutilisateur/real-madrid-app.git
+git clone https://github.com/zakariabouflous200/madrid.git
 
 2. Accédez au répertoire du projet :
 
@@ -39,4 +39,7 @@ flutter pub get
 4. Lancez l'application :
 
 flutter run
+
+📸 Captures d'écran
+
 
