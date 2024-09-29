@@ -48,3 +48,12 @@ flutter run
 |------------------------------------|------------------------------------|------------------------------------|------------------------------------|------------------------------------|
 | ![Accueil](https://github.com/zakariabouflous200/madrid/blob/main/home)       | ![Nouvelles](https://github.com/zakariabouflous200/madrid/blob/main/news)     | ![À propos](https://github.com/zakariabouflous200/madrid/blob/main/about)     | ![Joueurs](https://github.com/zakariabouflous200/madrid/blob/main/players)    | ![Articles](https://github.com/zakariabouflous200/madrid/blob/main/articles)  |
 
+## 🔗 APIs Utilisées
+
+- **API des joueurs** : Fournit les informations et statistiques des joueurs du Real Madrid.
+- **API des actualités** : Fournit les dernières nouvelles du club.
+
+## 👨‍💻 Auteur
+
+- Développé par **Zakariae Bouflous**. Pour toute question, contactez-moi à zakariabouflous200@gmail.com
+
